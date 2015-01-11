@@ -1,0 +1,61 @@
+body {
+	background-image: url("../img/cloud.jpg");
+	margin: 20px  0;
+
+}
+
+
+header, h1{
+	text-align: center;
+	background: black;
+	margin: 0;
+	color: white;
+	display: none;
+}
+.wrap {
+
+
+		width: 100%;
+		margin: 0 auto;
+}
+
+.body {
+	padding: 20px 0;
+	 background-image: url("../img/cloud.jpg")
+	margin: 0;
+	text-align: center;
+	color: white;
+}
+
+#logo {
+	margin-bottom: 20px;
+}
+
+#buySticker{
+	  font-weight: bold;
+	  font-size: 23px;
+	  padding: 10px 100px 5px;
+	  background-color: orange;
+	  border: 1px solid black;
+	  border-radius: 5px;
+  }
+
+#youTube{
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	padding: 10px 100px 5px;
+	background-color: red;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#faceBook{
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	padding: 10px 100px 5px;
+	background-color: blue;
+	border: 1px solid black;
+	border-radius: 5px;
+}
