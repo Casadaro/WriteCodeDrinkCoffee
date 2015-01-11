@@ -35,7 +35,7 @@ header, h1{
 	  font-weight: bold;
 	  font-size: 23px;
 	  padding: 10px 100px 5px;
-	  background-color: orange;
+	  background-color: #43ff0b;
 	  border: 1px solid black;
 	  border-radius: 5px;
   }
@@ -56,6 +56,16 @@ header, h1{
 	font-size: 16px;
 	padding: 10px 100px 5px;
 	background-color: blue;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#twitter{
+	color: white;
+	font-weight: bold;
+	font-size: 16px;
+	padding: 10px 100px 5px;
+	background-color: #0cc0ff;
 	border: 1px solid black;
 	border-radius: 5px;
 }
